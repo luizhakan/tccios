@@ -63,7 +63,6 @@ export default function Sobre() {
           </li>
         </ul>
       </div>
-      <Footer />
     </div>
   );
 }
