@@ -1,0 +1,10 @@
+.formulario{
+    padding: 4% 4%;
+    margin: 0%;
+}
+
+.avatar{
+    width: 150px;
+    height: 150px;
+    justify-content: left;
+}
